@@ -1,0 +1,2 @@
+shutdown -r
+:: do not rename this to a .bat and execute, warning has been given!

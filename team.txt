@@ -1,3 +1,4 @@
-kemal
-brandon
+Kemal
+Brandon
 Josh
+Stephen
